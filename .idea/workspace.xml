@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa4dbcfb-e75b-4c99-9b9d-72ed77de4c04" name="Changes" comment="First commit">
+    <list default="true" id="aa4dbcfb-e75b-4c99-9b9d-72ed77de4c04" name="Changes" comment="feat: Trabalhando estruturas de controle">
+      <change afterPath="$PROJECT_DIR$/src/Atividade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +46,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Atividade.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Teste.executor": "Run",
     "Application.teste.executor": "Run",
@@ -61,7 +64,14 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Atividade">
+    <configuration name="Atividade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Atividade" />
+      <module name="Hello" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Hello" />
@@ -97,6 +107,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Atividade" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.teste" />
         <item itemvalue="Application.Teste" />
@@ -125,6 +136,8 @@
       <workItem from="1755455964747" duration="258000" />
       <workItem from="1755456346894" duration="1561000" />
       <workItem from="1756048852798" duration="7508000" />
+      <workItem from="1756071139973" duration="666000" />
+      <workItem from="1756657717708" duration="2807000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <option name="closed" value="true" />
@@ -134,7 +147,15 @@
       <option name="project" value="LOCAL" />
       <updated>1755457065171</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="feat: Trabalhando estruturas de controle">
+      <option name="closed" value="true" />
+      <created>1756071381857</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1756071381857</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,7 +163,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+    <MESSAGE value="feat: Trabalhando estruturas de controle" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Trabalhando estruturas de controle" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
